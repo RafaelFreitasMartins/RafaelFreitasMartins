@@ -3,7 +3,7 @@
   
   **` Analista de Dados 📊`**
   <p>
-    Olá, eu sou o Rafael Martins!, tenho 26 anos, sou natural de São Paulo/SP e formado em <strong>Análise e Desenvolvimento de Sistemas</strong>. Atualmente, estou cursando <strong>Análise de Dados na Generation Brasil</strong> para consolidar minha transição de carreira na área de Tecnologia.
+    Olá, eu sou o Rafael Martins, tenho 26 anos, sou natural de São Paulo/SP e formado em <strong>Análise e Desenvolvimento de Sistemas</strong>. Atualmente, estou cursando <strong>Análise de Dados na Generation Brasil</strong> para consolidar minha transição de carreira na área de Tecnologia.
   </p>
 
   <p>
